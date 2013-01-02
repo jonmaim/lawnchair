@@ -1,4 +1,4 @@
-VERSION = "0.6.1"
+VERSION = "0.6.4"
 PRIMARY_ADAPTER = "dom"
 SECONDARY_ADAPTER = "window-name"
 
